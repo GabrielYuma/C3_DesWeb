@@ -23,3 +23,8 @@
 .btpes {
     margin-left: 410px;
 }
+
+#map {
+    height: 500px; 
+    width: 600px;
+}
