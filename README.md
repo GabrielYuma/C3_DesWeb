@@ -1,4 +1,5 @@
 # C3_Web
  
-Api -> server.js -> Terminal -> npm run dev
-Corona.html -> Go Live (server)
+ 1 - Download "Live server" for VS code;
+ 2 - Api -> server.js -> Terminal -> type: npm run dev;
+ 3 - Corona.html -> Go Live (server);
